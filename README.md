@@ -6,7 +6,7 @@ Developed with Unreal Engine 4.26.2
 
 ### ========== Team Composition ==========
 
-####       ===Position===     ===Number Of Persons===
+####    ===Position===    ===Number Of Persons===
       
 ┏━━━━ Team Leader                   1<br>
 ┃<br>
