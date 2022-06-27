@@ -13,8 +13,8 @@ Developed with Unreal Engine 4.26.2
 ┣━━━━ Planner                      1<br>
 ┃<br>
 ┣━┳━━ Programmer Leader            1<br>
-┃ ┃<br>
-┃ ┣━━ Main Programmer              2<br>
+┃   ┃<br>
+┃  ┣━━ Main Programmer              2<br>
 ┃ ┃<br>
 ┃ ┗━━ Programmer                   3<br>
 ┃<br>
