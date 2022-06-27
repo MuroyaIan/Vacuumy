@@ -10,7 +10,7 @@ Developed with Unreal Engine 4.26.2
       
 ┏━━━━ Team Leader ---------------------------1<br>
 ┃<br>
-┣━━━━ Planner ---------------------------------1<br>
+┣━━━━ Planner --------------------------------1<br>
 ┃<br>
 ┣━┳━━ Programmer Leader -------------------1<br>
 ┃　┃<br>
