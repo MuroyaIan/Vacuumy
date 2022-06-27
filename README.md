@@ -13,17 +13,17 @@ Developed with Unreal Engine 4.26.2
 ┣━━━━ Planner----------------------1<br>
 ┃<br>
 ┣━┳━━ Programmer Leader------------1<br>
-┃_┃<br>
-┃_┣━━ Main Programmer--------------2<br>
-┃_┃<br>
-┃_┗━━ Programmer-------------------3<br>
+┃__┃<br>
+┃__┣━━ Main Programmer--------------2<br>
+┃__┃<br>
+┃__┗━━ Programmer-------------------3<br>
 ┃<br>
 ┣━┳━━ Motion Designer--------------1<br>
-┃_┃<br>
-┃_┗━━ Effect Designer--------------1<br>
+┃__┃<br>
+┃__┗━━ Effect Designer--------------1<br>
 ┃<br>
 ┣━┳━━ BGM Designer-----------------1<br>
-┃_┃<br>
-┃_┗━━ SE Designer------------------2<br>
+┃__┃<br>
+┃__┗━━ SE Designer------------------2<br>
 ┃<br>
 ┗━━━━ Compositer-------------------1<br>
