@@ -4,13 +4,13 @@ Japan Game Awards 2022 Entry Work
 
 Developed with Unreal Engine 4.26.2
 
-### ============= Team Composition =============
+### ============== Team Composition ==============
 
 ### -------------Position-----------Number Of Persons-------------
       
-┏━━━━ Team Leader------------------1<br>
+┏━━━━ Team Leader---------------------1<br>
 ┃<br>
-┣━━━━ Planner----------------------1<br>
+┣━━━━ Planner------------------------1<br>
 ┃<br>
 ┣━┳━━ Programmer Leader------------1<br>
 ┃　┃<br>
