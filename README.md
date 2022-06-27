@@ -10,15 +10,15 @@ Developed with Unreal Engine 4.26.2
       
 ┏━━━━ Team Leader--------------------1<br>
 ┃<br>
-┣━━━━ Planner-------------------------1<br>
+┣━━━━ Planner--------------------------1<br>
 ┃<br>
 ┣━┳━━ Programmer Leader------------1<br>
 ┃　┃<br>
 ┃　┣━━ Main Programmer--------------2<br>
 ┃　┃<br>
-┃　┗━━ Programmer-------------------3<br>
+┃　┗━━ Programmer---------------------3<br>
 ┃<br>
-┣━┳━━ Motion Designer--------------1<br>
+┣━┳━━ Motion Designer----------------1<br>
 ┃　┃<br>
 ┃　┗━━ Effect Designer--------------1<br>
 ┃<br>
