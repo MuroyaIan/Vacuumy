@@ -8,7 +8,7 @@ Developed with Unreal Engine 4.26.2
 
 ####       ===Position===     ===Number Of Persons===
       
-┏━━━━ Team Leader                   1
+┏━━━━ Team Leader                   1\n
 
 ┃
 
